@@ -15,3 +15,4 @@ if failed >= 3:
     print("Warning: Multiple failed login attempts!")
 else:
     print("No suspicious activity detected.")
+print("Security log analysis completed.")
